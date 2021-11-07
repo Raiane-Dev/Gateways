@@ -46,3 +46,8 @@ Stripe já é de fácil integração por possuir uma documentação muito clara 
 </ul>
 
 <h5>Agradeço a quem ficou até aqui, até logo.</h5>
+
+![Video](https://user-images.githubusercontent.com/89032013/140666198-4d5a7756-ce6e-44b2-be94-5952ca654312.png)
+![Video (1)](https://user-images.githubusercontent.com/89032013/140666223-265f5ccf-1c42-44f6-b74a-82cd1470cdca.png)
+![Video (2)](https://user-images.githubusercontent.com/89032013/140666256-f936f220-82ec-4d8f-9789-c34af469da2e.png)
+
