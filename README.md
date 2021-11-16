@@ -21,7 +21,7 @@ Stripe já é de fácil integração por possuir uma documentação muito clara 
 
 <li>
   <strong>Database: </br /></strong>
-  <i>PHPMyAdmin.</i>
+  <i>MySql.</i>
 </li>
 
 <li>
